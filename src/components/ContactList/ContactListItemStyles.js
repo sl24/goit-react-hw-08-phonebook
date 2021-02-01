@@ -10,6 +10,7 @@ const ListItem = styled.li`
 const Text = styled.p`
   color: #4b0082;
   margin: 0;
+  font-size: 18px;
 `;
 
 const Button = styled.button`

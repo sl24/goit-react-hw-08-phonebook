@@ -8,8 +8,8 @@ const Form = styled.form`
 const InputForm = styled.input`
   display: block;
   margin: 10px auto;
-  padding: 12px 20px;
-  font-size: 18px;
+  padding: 6px 20px;
+  font-size: 16px;
   border-radius: 30px;
 
   &::placeholder {
@@ -20,7 +20,7 @@ const InputForm = styled.input`
 
 const Button = styled.button`
   outline: none;
-  padding: 12px 20px;
+  padding: 6px 20px;
   margin: 10px 5px;
   border-radius: 30px;
   background-image: linear-gradient(
